@@ -106,6 +106,77 @@ def list_song_basenames():
         if fname.lower().endswith(".npy"):
             basenames.append(os.path.splitext(fname)[0])
     return sorted(basenames)
+## newly added fxns on day 4 - fade and slice_saving
+def apply_fade(audio, sr, fade_ms=10):
+    """
+    Apply fade-in and fade-out of fade_ms milliseconds.
+    Prevents popping sounds due to abrupt cuts.
+    """
+    fade_samples = int(sr * fade_ms / 1000)
+
+    if len(audio) < 2 * fade_samples:
+        return audio  # too small to fade
+
+    # Fade-in
+    fade_in_curve = np.linspace(0.0, 1.0, fade_samples)
+    audio[:fade_samples] *= fade_in_curve
+
+    # Fade-out
+    fade_out_curve = np.linspace(1.0, 0.0, fade_samples)
+    audio[-fade_samples:] *= fade_out_curve
+
+    return audio
+
+import soundfile as sf
+
+AUDIO_SEG_DIR = "database/audio_segments"
+
+def slice_and_save_segment(y, sr, start_time, end_time, segment_name):
+    """
+    Slice audio using time boundaries and save as a clean WAV file.
+    """
+    os.makedirs(AUDIO_SEG_DIR, exist_ok=True)
+
+    start_sample = int(start_time * sr)
+    end_sample = int(end_time * sr)
+
+    # Extract raw slice
+    segment_audio = y[start_sample:end_sample]
+
+    # Safety check
+    if len(segment_audio) == 0:
+        print(f"[WARN] Empty segment: {segment_name}")
+        return None
+
+    # Apply fade-in/out
+    segment_audio = apply_fade(segment_audio, sr, fade_ms=10)
+
+    # Save WAV
+    out_path = os.path.join(AUDIO_SEG_DIR, f"{segment_name}.wav")
+    sf.write(out_path, segment_audio, sr)
+
+    return out_path
+
+def process_song_segments(song_name, bars):
+    """
+    For one song:
+      - loads normalized .npy
+      - slices each bar into audio files
+      - returns list of segment file paths
+    """
+    print(f"[PROCESS] Slicing segments for {song_name}")
+
+    y, sr = load_normalized_song(song_name)
+
+    segment_paths = []
+    for idx, (start, end) in enumerate(bars):
+        seg_name = f"{song_name}_bar_{idx:02d}"
+        out = slice_and_save_segment(y, sr, start, end, seg_name)
+        if out:
+            segment_paths.append(out)
+
+    print(f"[DONE] {song_name}: Saved {len(segment_paths)} segments.")
+    return segment_paths
 
 
 if __name__ == "__main__":
@@ -114,4 +185,6 @@ if __name__ == "__main__":
 
     for name in song_names:
         tempo, bars = compute_bar_grid_for_song(name)
-        print(f"[SUMMARY] {name}: tempo={tempo:.2f}, bars_kept={len(bars)}")
+        #print(f"[SUMMARY] {name}: tempo={tempo:.2f}, bars_kept={len(bars)}")
+        process_song_segments(name, bars)
+
