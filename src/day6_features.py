@@ -34,6 +34,15 @@ def estimate_key(chroma):
 with open(MASTER_DB_PATH, "rb") as f:
     segments = pickle.load(f)
 
+# -----------------------------
+# GLOBAL INDEX ASSIGNMENT (DAY 7)
+# -----------------------------
+for i, seg in enumerate(segments):
+    seg.global_index = i
+
+print(f"[INFO] Assigned global indices 0 → {len(segments)-1}")
+
+
 segments_by_song = defaultdict(list)
 for seg in segments:
     segments_by_song[seg.parent_song].append(seg)
@@ -84,6 +93,35 @@ for seg in segments:
 
     seg.wavelet_energy = np.mean(np.abs(coeffs), axis=1)
 
+
+# -----------------------------
+# SANITY CHECKS (CRITICAL)
+# -----------------------------
+print("[INFO] Running final sanity checks...")
+
+N = len(segments)
+assert N > 0, "No segments found!"
+
+# Global index consistency
+indices = [seg.global_index for seg in segments]
+assert indices == list(range(N)), "Global indices are inconsistent!"
+
+# Spectrogram shape consistency
+ref_shape = segments[0].spectrogram.shape
+for seg in segments:
+    assert seg.spectrogram is not None, f"Missing spectrogram in {seg.id}"
+    assert seg.spectrogram.shape == ref_shape, \
+        f"Spectrogram shape mismatch in {seg.id}"
+
+    assert seg.wavelet_energy is not None, \
+        f"Missing wavelet features in {seg.id}"
+
+    assert seg.key is not None, \
+        f"Missing key in {seg.id}"
+
+print("[SUCCESS] All sanity checks passed!")
+print(f"Total segments: {N}")
+print(f"Spectrogram shape: {ref_shape}")
 
 
 # -----------------------------

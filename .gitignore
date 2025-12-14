@@ -4,7 +4,7 @@ __pycache__/
 
 # Generated artifacts
 database/*.pkl
-# database/*.csv
+database/*.csv
 # database/audio_segments/
 
 
