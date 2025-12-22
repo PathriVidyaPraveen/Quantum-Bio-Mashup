@@ -3,10 +3,9 @@ import soundfile as sf
 import numpy as np
 
 files = [
-    "database/audio_segments/retro-lounge-389644_bar_07.wav",
-    "database/audio_segments/retro-lounge-389644_bar_06.wav",
-    "database/audio_segments/retro-lounge-389644_bar_04.wav",
-    "database/audio_segments/retro-lounge-389644_bar_03.wav",
+    "database/audio_segments/retro-lounge-389644_bar_00.wav",
+    "database/audio_segments/we-wish-you-a-merry-christmas-444573_bar_06.wav"
+
 ]
 
 audio = []
