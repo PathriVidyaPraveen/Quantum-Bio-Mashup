@@ -1,0 +1,1607 @@
+{
+  "selection_mode": "argmax",
+  "exclusion_window": 3,
+  "key_continuity": false,
+  "path": [
+    {
+      "step": 0,
+      "segment_id": "S01_00",
+      "parent_song": "SSvid.net--Taylor-Swift-Blank-Space",
+      "start_time": 3.2043537414965986,
+      "end_time": 5.735328798185941,
+      "key": "F"
+    },
+    {
+      "step": 1,
+      "segment_id": "S04_03",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 7.523265306122449,
+      "end_time": 9.914920634920636,
+      "key": "G"
+    },
+    {
+      "step": 2,
+      "segment_id": "S05_01",
+      "parent_song": "hype-drill-music-438398",
+      "start_time": 11.215238095238096,
+      "end_time": 12.933514739229025,
+      "key": "E"
+    },
+    {
+      "step": 3,
+      "segment_id": "S06_02",
+      "parent_song": "retro-lounge-389644",
+      "start_time": 4.08671201814059,
+      "end_time": 6.060408163265306,
+      "key": "F#"
+    },
+    {
+      "step": 4,
+      "segment_id": "S01_00",
+      "parent_song": "SSvid.net--Taylor-Swift-Blank-Space",
+      "start_time": 3.2043537414965986,
+      "end_time": 5.735328798185941,
+      "key": "F"
+    },
+    {
+      "step": 5,
+      "segment_id": "S04_03",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 7.523265306122449,
+      "end_time": 9.914920634920636,
+      "key": "G"
+    },
+    {
+      "step": 6,
+      "segment_id": "S05_01",
+      "parent_song": "hype-drill-music-438398",
+      "start_time": 11.215238095238096,
+      "end_time": 12.933514739229025,
+      "key": "E"
+    },
+    {
+      "step": 7,
+      "segment_id": "S04_01",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 2.716734693877551,
+      "end_time": 5.108390022675737,
+      "key": "G"
+    },
+    {
+      "step": 8,
+      "segment_id": "S01_00",
+      "parent_song": "SSvid.net--Taylor-Swift-Blank-Space",
+      "start_time": 3.2043537414965986,
+      "end_time": 5.735328798185941,
+      "key": "F"
+    },
+    {
+      "step": 9,
+      "segment_id": "S06_02",
+      "parent_song": "retro-lounge-389644",
+      "start_time": 4.08671201814059,
+      "end_time": 6.060408163265306,
+      "key": "F#"
+    },
+    {
+      "step": 10,
+      "segment_id": "S05_01",
+      "parent_song": "hype-drill-music-438398",
+      "start_time": 11.215238095238096,
+      "end_time": 12.933514739229025,
+      "key": "E"
+    },
+    {
+      "step": 11,
+      "segment_id": "S04_01",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 2.716734693877551,
+      "end_time": 5.108390022675737,
+      "key": "G"
+    },
+    {
+      "step": 12,
+      "segment_id": "S01_00",
+      "parent_song": "SSvid.net--Taylor-Swift-Blank-Space",
+      "start_time": 3.2043537414965986,
+      "end_time": 5.735328798185941,
+      "key": "F"
+    },
+    {
+      "step": 13,
+      "segment_id": "S05_00",
+      "parent_song": "hype-drill-music-438398",
+      "start_time": 9.496961451247165,
+      "end_time": 11.215238095238096,
+      "key": "E"
+    },
+    {
+      "step": 14,
+      "segment_id": "S05_01",
+      "parent_song": "hype-drill-music-438398",
+      "start_time": 11.215238095238096,
+      "end_time": 12.933514739229025,
+      "key": "E"
+    },
+    {
+      "step": 15,
+      "segment_id": "S08_00",
+      "parent_song": "we-wish-you-a-merry-christmas-444573",
+      "start_time": 0.9287981859410431,
+      "end_time": 2.4380952380952383,
+      "key": "G"
+    },
+    {
+      "step": 16,
+      "segment_id": "S01_00",
+      "parent_song": "SSvid.net--Taylor-Swift-Blank-Space",
+      "start_time": 3.2043537414965986,
+      "end_time": 5.735328798185941,
+      "key": "F"
+    },
+    {
+      "step": 17,
+      "segment_id": "S04_02",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 5.108390022675737,
+      "end_time": 7.523265306122449,
+      "key": "G"
+    },
+    {
+      "step": 18,
+      "segment_id": "S05_01",
+      "parent_song": "hype-drill-music-438398",
+      "start_time": 11.215238095238096,
+      "end_time": 12.933514739229025,
+      "key": "E"
+    },
+    {
+      "step": 19,
+      "segment_id": "S06_05",
+      "parent_song": "retro-lounge-389644",
+      "start_time": 10.054240362811791,
+      "end_time": 12.097596371882085,
+      "key": "F#"
+    },
+    {
+      "step": 20,
+      "segment_id": "S01_00",
+      "parent_song": "SSvid.net--Taylor-Swift-Blank-Space",
+      "start_time": 3.2043537414965986,
+      "end_time": 5.735328798185941,
+      "key": "F"
+    },
+    {
+      "step": 21,
+      "segment_id": "S06_02",
+      "parent_song": "retro-lounge-389644",
+      "start_time": 4.08671201814059,
+      "end_time": 6.060408163265306,
+      "key": "F#"
+    },
+    {
+      "step": 22,
+      "segment_id": "S04_03",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 7.523265306122449,
+      "end_time": 9.914920634920636,
+      "key": "G"
+    },
+    {
+      "step": 23,
+      "segment_id": "S06_05",
+      "parent_song": "retro-lounge-389644",
+      "start_time": 10.054240362811791,
+      "end_time": 12.097596371882085,
+      "key": "F#"
+    },
+    {
+      "step": 24,
+      "segment_id": "S01_00",
+      "parent_song": "SSvid.net--Taylor-Swift-Blank-Space",
+      "start_time": 3.2043537414965986,
+      "end_time": 5.735328798185941,
+      "key": "F"
+    },
+    {
+      "step": 25,
+      "segment_id": "S06_02",
+      "parent_song": "retro-lounge-389644",
+      "start_time": 4.08671201814059,
+      "end_time": 6.060408163265306,
+      "key": "F#"
+    },
+    {
+      "step": 26,
+      "segment_id": "S04_03",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 7.523265306122449,
+      "end_time": 9.914920634920636,
+      "key": "G"
+    },
+    {
+      "step": 27,
+      "segment_id": "S05_01",
+      "parent_song": "hype-drill-music-438398",
+      "start_time": 11.215238095238096,
+      "end_time": 12.933514739229025,
+      "key": "E"
+    },
+    {
+      "step": 28,
+      "segment_id": "S01_00",
+      "parent_song": "SSvid.net--Taylor-Swift-Blank-Space",
+      "start_time": 3.2043537414965986,
+      "end_time": 5.735328798185941,
+      "key": "F"
+    },
+    {
+      "step": 29,
+      "segment_id": "S06_02",
+      "parent_song": "retro-lounge-389644",
+      "start_time": 4.08671201814059,
+      "end_time": 6.060408163265306,
+      "key": "F#"
+    },
+    {
+      "step": 30,
+      "segment_id": "S04_03",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 7.523265306122449,
+      "end_time": 9.914920634920636,
+      "key": "G"
+    },
+    {
+      "step": 31,
+      "segment_id": "S05_01",
+      "parent_song": "hype-drill-music-438398",
+      "start_time": 11.215238095238096,
+      "end_time": 12.933514739229025,
+      "key": "E"
+    },
+    {
+      "step": 32,
+      "segment_id": "S01_00",
+      "parent_song": "SSvid.net--Taylor-Swift-Blank-Space",
+      "start_time": 3.2043537414965986,
+      "end_time": 5.735328798185941,
+      "key": "F"
+    },
+    {
+      "step": 33,
+      "segment_id": "S04_02",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 5.108390022675737,
+      "end_time": 7.523265306122449,
+      "key": "G"
+    },
+    {
+      "step": 34,
+      "segment_id": "S06_01",
+      "parent_song": "retro-lounge-389644",
+      "start_time": 2.066575963718821,
+      "end_time": 4.08671201814059,
+      "key": "F#"
+    },
+    {
+      "step": 35,
+      "segment_id": "S05_01",
+      "parent_song": "hype-drill-music-438398",
+      "start_time": 11.215238095238096,
+      "end_time": 12.933514739229025,
+      "key": "E"
+    },
+    {
+      "step": 36,
+      "segment_id": "S01_00",
+      "parent_song": "SSvid.net--Taylor-Swift-Blank-Space",
+      "start_time": 3.2043537414965986,
+      "end_time": 5.735328798185941,
+      "key": "F"
+    },
+    {
+      "step": 37,
+      "segment_id": "S04_02",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 5.108390022675737,
+      "end_time": 7.523265306122449,
+      "key": "G"
+    },
+    {
+      "step": 38,
+      "segment_id": "S06_01",
+      "parent_song": "retro-lounge-389644",
+      "start_time": 2.066575963718821,
+      "end_time": 4.08671201814059,
+      "key": "F#"
+    },
+    {
+      "step": 39,
+      "segment_id": "S05_01",
+      "parent_song": "hype-drill-music-438398",
+      "start_time": 11.215238095238096,
+      "end_time": 12.933514739229025,
+      "key": "E"
+    },
+    {
+      "step": 40,
+      "segment_id": "S01_00",
+      "parent_song": "SSvid.net--Taylor-Swift-Blank-Space",
+      "start_time": 3.2043537414965986,
+      "end_time": 5.735328798185941,
+      "key": "F"
+    },
+    {
+      "step": 41,
+      "segment_id": "S04_02",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 5.108390022675737,
+      "end_time": 7.523265306122449,
+      "key": "G"
+    },
+    {
+      "step": 42,
+      "segment_id": "S06_02",
+      "parent_song": "retro-lounge-389644",
+      "start_time": 4.08671201814059,
+      "end_time": 6.060408163265306,
+      "key": "F#"
+    },
+    {
+      "step": 43,
+      "segment_id": "S04_03",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 7.523265306122449,
+      "end_time": 9.914920634920636,
+      "key": "G"
+    },
+    {
+      "step": 44,
+      "segment_id": "S01_00",
+      "parent_song": "SSvid.net--Taylor-Swift-Blank-Space",
+      "start_time": 3.2043537414965986,
+      "end_time": 5.735328798185941,
+      "key": "F"
+    },
+    {
+      "step": 45,
+      "segment_id": "S04_02",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 5.108390022675737,
+      "end_time": 7.523265306122449,
+      "key": "G"
+    },
+    {
+      "step": 46,
+      "segment_id": "S06_02",
+      "parent_song": "retro-lounge-389644",
+      "start_time": 4.08671201814059,
+      "end_time": 6.060408163265306,
+      "key": "F#"
+    },
+    {
+      "step": 47,
+      "segment_id": "S04_03",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 7.523265306122449,
+      "end_time": 9.914920634920636,
+      "key": "G"
+    },
+    {
+      "step": 48,
+      "segment_id": "S01_00",
+      "parent_song": "SSvid.net--Taylor-Swift-Blank-Space",
+      "start_time": 3.2043537414965986,
+      "end_time": 5.735328798185941,
+      "key": "F"
+    },
+    {
+      "step": 49,
+      "segment_id": "S04_02",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 5.108390022675737,
+      "end_time": 7.523265306122449,
+      "key": "G"
+    },
+    {
+      "step": 50,
+      "segment_id": "S06_02",
+      "parent_song": "retro-lounge-389644",
+      "start_time": 4.08671201814059,
+      "end_time": 6.060408163265306,
+      "key": "F#"
+    },
+    {
+      "step": 51,
+      "segment_id": "S08_00",
+      "parent_song": "we-wish-you-a-merry-christmas-444573",
+      "start_time": 0.9287981859410431,
+      "end_time": 2.4380952380952383,
+      "key": "G"
+    },
+    {
+      "step": 52,
+      "segment_id": "S01_00",
+      "parent_song": "SSvid.net--Taylor-Swift-Blank-Space",
+      "start_time": 3.2043537414965986,
+      "end_time": 5.735328798185941,
+      "key": "F"
+    },
+    {
+      "step": 53,
+      "segment_id": "S04_02",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 5.108390022675737,
+      "end_time": 7.523265306122449,
+      "key": "G"
+    },
+    {
+      "step": 54,
+      "segment_id": "S04_01",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 2.716734693877551,
+      "end_time": 5.108390022675737,
+      "key": "G"
+    },
+    {
+      "step": 55,
+      "segment_id": "S06_02",
+      "parent_song": "retro-lounge-389644",
+      "start_time": 4.08671201814059,
+      "end_time": 6.060408163265306,
+      "key": "F#"
+    },
+    {
+      "step": 56,
+      "segment_id": "S08_00",
+      "parent_song": "we-wish-you-a-merry-christmas-444573",
+      "start_time": 0.9287981859410431,
+      "end_time": 2.4380952380952383,
+      "key": "G"
+    },
+    {
+      "step": 57,
+      "segment_id": "S04_02",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 5.108390022675737,
+      "end_time": 7.523265306122449,
+      "key": "G"
+    },
+    {
+      "step": 58,
+      "segment_id": "S04_01",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 2.716734693877551,
+      "end_time": 5.108390022675737,
+      "key": "G"
+    },
+    {
+      "step": 59,
+      "segment_id": "S06_02",
+      "parent_song": "retro-lounge-389644",
+      "start_time": 4.08671201814059,
+      "end_time": 6.060408163265306,
+      "key": "F#"
+    },
+    {
+      "step": 60,
+      "segment_id": "S01_00",
+      "parent_song": "SSvid.net--Taylor-Swift-Blank-Space",
+      "start_time": 3.2043537414965986,
+      "end_time": 5.735328798185941,
+      "key": "F"
+    },
+    {
+      "step": 61,
+      "segment_id": "S04_02",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 5.108390022675737,
+      "end_time": 7.523265306122449,
+      "key": "G"
+    },
+    {
+      "step": 62,
+      "segment_id": "S04_01",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 2.716734693877551,
+      "end_time": 5.108390022675737,
+      "key": "G"
+    },
+    {
+      "step": 63,
+      "segment_id": "S06_02",
+      "parent_song": "retro-lounge-389644",
+      "start_time": 4.08671201814059,
+      "end_time": 6.060408163265306,
+      "key": "F#"
+    },
+    {
+      "step": 64,
+      "segment_id": "S01_00",
+      "parent_song": "SSvid.net--Taylor-Swift-Blank-Space",
+      "start_time": 3.2043537414965986,
+      "end_time": 5.735328798185941,
+      "key": "F"
+    },
+    {
+      "step": 65,
+      "segment_id": "S04_03",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 7.523265306122449,
+      "end_time": 9.914920634920636,
+      "key": "G"
+    },
+    {
+      "step": 66,
+      "segment_id": "S04_01",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 2.716734693877551,
+      "end_time": 5.108390022675737,
+      "key": "G"
+    },
+    {
+      "step": 67,
+      "segment_id": "S06_02",
+      "parent_song": "retro-lounge-389644",
+      "start_time": 4.08671201814059,
+      "end_time": 6.060408163265306,
+      "key": "F#"
+    },
+    {
+      "step": 68,
+      "segment_id": "S01_00",
+      "parent_song": "SSvid.net--Taylor-Swift-Blank-Space",
+      "start_time": 3.2043537414965986,
+      "end_time": 5.735328798185941,
+      "key": "F"
+    },
+    {
+      "step": 69,
+      "segment_id": "S04_03",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 7.523265306122449,
+      "end_time": 9.914920634920636,
+      "key": "G"
+    },
+    {
+      "step": 70,
+      "segment_id": "S04_01",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 2.716734693877551,
+      "end_time": 5.108390022675737,
+      "key": "G"
+    },
+    {
+      "step": 71,
+      "segment_id": "S05_01",
+      "parent_song": "hype-drill-music-438398",
+      "start_time": 11.215238095238096,
+      "end_time": 12.933514739229025,
+      "key": "E"
+    },
+    {
+      "step": 72,
+      "segment_id": "S01_00",
+      "parent_song": "SSvid.net--Taylor-Swift-Blank-Space",
+      "start_time": 3.2043537414965986,
+      "end_time": 5.735328798185941,
+      "key": "F"
+    },
+    {
+      "step": 73,
+      "segment_id": "S04_03",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 7.523265306122449,
+      "end_time": 9.914920634920636,
+      "key": "G"
+    },
+    {
+      "step": 74,
+      "segment_id": "S04_02",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 5.108390022675737,
+      "end_time": 7.523265306122449,
+      "key": "G"
+    },
+    {
+      "step": 75,
+      "segment_id": "S05_01",
+      "parent_song": "hype-drill-music-438398",
+      "start_time": 11.215238095238096,
+      "end_time": 12.933514739229025,
+      "key": "E"
+    },
+    {
+      "step": 76,
+      "segment_id": "S01_00",
+      "parent_song": "SSvid.net--Taylor-Swift-Blank-Space",
+      "start_time": 3.2043537414965986,
+      "end_time": 5.735328798185941,
+      "key": "F"
+    },
+    {
+      "step": 77,
+      "segment_id": "S04_03",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 7.523265306122449,
+      "end_time": 9.914920634920636,
+      "key": "G"
+    },
+    {
+      "step": 78,
+      "segment_id": "S04_02",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 5.108390022675737,
+      "end_time": 7.523265306122449,
+      "key": "G"
+    },
+    {
+      "step": 79,
+      "segment_id": "S05_01",
+      "parent_song": "hype-drill-music-438398",
+      "start_time": 11.215238095238096,
+      "end_time": 12.933514739229025,
+      "key": "E"
+    },
+    {
+      "step": 80,
+      "segment_id": "S01_00",
+      "parent_song": "SSvid.net--Taylor-Swift-Blank-Space",
+      "start_time": 3.2043537414965986,
+      "end_time": 5.735328798185941,
+      "key": "F"
+    },
+    {
+      "step": 81,
+      "segment_id": "S04_03",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 7.523265306122449,
+      "end_time": 9.914920634920636,
+      "key": "G"
+    },
+    {
+      "step": 82,
+      "segment_id": "S04_02",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 5.108390022675737,
+      "end_time": 7.523265306122449,
+      "key": "G"
+    },
+    {
+      "step": 83,
+      "segment_id": "S05_01",
+      "parent_song": "hype-drill-music-438398",
+      "start_time": 11.215238095238096,
+      "end_time": 12.933514739229025,
+      "key": "E"
+    },
+    {
+      "step": 84,
+      "segment_id": "S01_00",
+      "parent_song": "SSvid.net--Taylor-Swift-Blank-Space",
+      "start_time": 3.2043537414965986,
+      "end_time": 5.735328798185941,
+      "key": "F"
+    },
+    {
+      "step": 85,
+      "segment_id": "S04_03",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 7.523265306122449,
+      "end_time": 9.914920634920636,
+      "key": "G"
+    },
+    {
+      "step": 86,
+      "segment_id": "S06_03",
+      "parent_song": "retro-lounge-389644",
+      "start_time": 6.060408163265306,
+      "end_time": 8.010884353741497,
+      "key": "F#"
+    },
+    {
+      "step": 87,
+      "segment_id": "S05_01",
+      "parent_song": "hype-drill-music-438398",
+      "start_time": 11.215238095238096,
+      "end_time": 12.933514739229025,
+      "key": "E"
+    },
+    {
+      "step": 88,
+      "segment_id": "S01_00",
+      "parent_song": "SSvid.net--Taylor-Swift-Blank-Space",
+      "start_time": 3.2043537414965986,
+      "end_time": 5.735328798185941,
+      "key": "F"
+    },
+    {
+      "step": 89,
+      "segment_id": "S04_03",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 7.523265306122449,
+      "end_time": 9.914920634920636,
+      "key": "G"
+    },
+    {
+      "step": 90,
+      "segment_id": "S06_03",
+      "parent_song": "retro-lounge-389644",
+      "start_time": 6.060408163265306,
+      "end_time": 8.010884353741497,
+      "key": "F#"
+    },
+    {
+      "step": 91,
+      "segment_id": "S05_01",
+      "parent_song": "hype-drill-music-438398",
+      "start_time": 11.215238095238096,
+      "end_time": 12.933514739229025,
+      "key": "E"
+    },
+    {
+      "step": 92,
+      "segment_id": "S01_00",
+      "parent_song": "SSvid.net--Taylor-Swift-Blank-Space",
+      "start_time": 3.2043537414965986,
+      "end_time": 5.735328798185941,
+      "key": "F"
+    },
+    {
+      "step": 93,
+      "segment_id": "S04_03",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 7.523265306122449,
+      "end_time": 9.914920634920636,
+      "key": "G"
+    },
+    {
+      "step": 94,
+      "segment_id": "S04_01",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 2.716734693877551,
+      "end_time": 5.108390022675737,
+      "key": "G"
+    },
+    {
+      "step": 95,
+      "segment_id": "S05_01",
+      "parent_song": "hype-drill-music-438398",
+      "start_time": 11.215238095238096,
+      "end_time": 12.933514739229025,
+      "key": "E"
+    },
+    {
+      "step": 96,
+      "segment_id": "S01_00",
+      "parent_song": "SSvid.net--Taylor-Swift-Blank-Space",
+      "start_time": 3.2043537414965986,
+      "end_time": 5.735328798185941,
+      "key": "F"
+    },
+    {
+      "step": 97,
+      "segment_id": "S04_00",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 0.16253968253968254,
+      "end_time": 2.716734693877551,
+      "key": "G"
+    },
+    {
+      "step": 98,
+      "segment_id": "S04_01",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 2.716734693877551,
+      "end_time": 5.108390022675737,
+      "key": "G"
+    },
+    {
+      "step": 99,
+      "segment_id": "S05_01",
+      "parent_song": "hype-drill-music-438398",
+      "start_time": 11.215238095238096,
+      "end_time": 12.933514739229025,
+      "key": "E"
+    },
+    {
+      "step": 100,
+      "segment_id": "S01_00",
+      "parent_song": "SSvid.net--Taylor-Swift-Blank-Space",
+      "start_time": 3.2043537414965986,
+      "end_time": 5.735328798185941,
+      "key": "F"
+    },
+    {
+      "step": 101,
+      "segment_id": "S06_02",
+      "parent_song": "retro-lounge-389644",
+      "start_time": 4.08671201814059,
+      "end_time": 6.060408163265306,
+      "key": "F#"
+    },
+    {
+      "step": 102,
+      "segment_id": "S04_01",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 2.716734693877551,
+      "end_time": 5.108390022675737,
+      "key": "G"
+    },
+    {
+      "step": 103,
+      "segment_id": "S05_01",
+      "parent_song": "hype-drill-music-438398",
+      "start_time": 11.215238095238096,
+      "end_time": 12.933514739229025,
+      "key": "E"
+    },
+    {
+      "step": 104,
+      "segment_id": "S01_00",
+      "parent_song": "SSvid.net--Taylor-Swift-Blank-Space",
+      "start_time": 3.2043537414965986,
+      "end_time": 5.735328798185941,
+      "key": "F"
+    },
+    {
+      "step": 105,
+      "segment_id": "S06_02",
+      "parent_song": "retro-lounge-389644",
+      "start_time": 4.08671201814059,
+      "end_time": 6.060408163265306,
+      "key": "F#"
+    },
+    {
+      "step": 106,
+      "segment_id": "S04_01",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 2.716734693877551,
+      "end_time": 5.108390022675737,
+      "key": "G"
+    },
+    {
+      "step": 107,
+      "segment_id": "S06_06",
+      "parent_song": "retro-lounge-389644",
+      "start_time": 12.097596371882085,
+      "end_time": 14.164172335600908,
+      "key": "F#"
+    },
+    {
+      "step": 108,
+      "segment_id": "S01_00",
+      "parent_song": "SSvid.net--Taylor-Swift-Blank-Space",
+      "start_time": 3.2043537414965986,
+      "end_time": 5.735328798185941,
+      "key": "F"
+    },
+    {
+      "step": 109,
+      "segment_id": "S06_02",
+      "parent_song": "retro-lounge-389644",
+      "start_time": 4.08671201814059,
+      "end_time": 6.060408163265306,
+      "key": "F#"
+    },
+    {
+      "step": 110,
+      "segment_id": "S05_00",
+      "parent_song": "hype-drill-music-438398",
+      "start_time": 9.496961451247165,
+      "end_time": 11.215238095238096,
+      "key": "E"
+    },
+    {
+      "step": 111,
+      "segment_id": "S06_06",
+      "parent_song": "retro-lounge-389644",
+      "start_time": 12.097596371882085,
+      "end_time": 14.164172335600908,
+      "key": "F#"
+    },
+    {
+      "step": 112,
+      "segment_id": "S01_00",
+      "parent_song": "SSvid.net--Taylor-Swift-Blank-Space",
+      "start_time": 3.2043537414965986,
+      "end_time": 5.735328798185941,
+      "key": "F"
+    },
+    {
+      "step": 113,
+      "segment_id": "S06_02",
+      "parent_song": "retro-lounge-389644",
+      "start_time": 4.08671201814059,
+      "end_time": 6.060408163265306,
+      "key": "F#"
+    },
+    {
+      "step": 114,
+      "segment_id": "S05_00",
+      "parent_song": "hype-drill-music-438398",
+      "start_time": 9.496961451247165,
+      "end_time": 11.215238095238096,
+      "key": "E"
+    },
+    {
+      "step": 115,
+      "segment_id": "S06_06",
+      "parent_song": "retro-lounge-389644",
+      "start_time": 12.097596371882085,
+      "end_time": 14.164172335600908,
+      "key": "F#"
+    },
+    {
+      "step": 116,
+      "segment_id": "S01_00",
+      "parent_song": "SSvid.net--Taylor-Swift-Blank-Space",
+      "start_time": 3.2043537414965986,
+      "end_time": 5.735328798185941,
+      "key": "F"
+    },
+    {
+      "step": 117,
+      "segment_id": "S06_02",
+      "parent_song": "retro-lounge-389644",
+      "start_time": 4.08671201814059,
+      "end_time": 6.060408163265306,
+      "key": "F#"
+    },
+    {
+      "step": 118,
+      "segment_id": "S06_01",
+      "parent_song": "retro-lounge-389644",
+      "start_time": 2.066575963718821,
+      "end_time": 4.08671201814059,
+      "key": "F#"
+    },
+    {
+      "step": 119,
+      "segment_id": "S06_06",
+      "parent_song": "retro-lounge-389644",
+      "start_time": 12.097596371882085,
+      "end_time": 14.164172335600908,
+      "key": "F#"
+    },
+    {
+      "step": 120,
+      "segment_id": "S01_00",
+      "parent_song": "SSvid.net--Taylor-Swift-Blank-Space",
+      "start_time": 3.2043537414965986,
+      "end_time": 5.735328798185941,
+      "key": "F"
+    },
+    {
+      "step": 121,
+      "segment_id": "S06_02",
+      "parent_song": "retro-lounge-389644",
+      "start_time": 4.08671201814059,
+      "end_time": 6.060408163265306,
+      "key": "F#"
+    },
+    {
+      "step": 122,
+      "segment_id": "S06_01",
+      "parent_song": "retro-lounge-389644",
+      "start_time": 2.066575963718821,
+      "end_time": 4.08671201814059,
+      "key": "F#"
+    },
+    {
+      "step": 123,
+      "segment_id": "S06_06",
+      "parent_song": "retro-lounge-389644",
+      "start_time": 12.097596371882085,
+      "end_time": 14.164172335600908,
+      "key": "F#"
+    },
+    {
+      "step": 124,
+      "segment_id": "S01_00",
+      "parent_song": "SSvid.net--Taylor-Swift-Blank-Space",
+      "start_time": 3.2043537414965986,
+      "end_time": 5.735328798185941,
+      "key": "F"
+    },
+    {
+      "step": 125,
+      "segment_id": "S06_02",
+      "parent_song": "retro-lounge-389644",
+      "start_time": 4.08671201814059,
+      "end_time": 6.060408163265306,
+      "key": "F#"
+    },
+    {
+      "step": 126,
+      "segment_id": "S06_01",
+      "parent_song": "retro-lounge-389644",
+      "start_time": 2.066575963718821,
+      "end_time": 4.08671201814059,
+      "key": "F#"
+    },
+    {
+      "step": 127,
+      "segment_id": "S06_06",
+      "parent_song": "retro-lounge-389644",
+      "start_time": 12.097596371882085,
+      "end_time": 14.164172335600908,
+      "key": "F#"
+    },
+    {
+      "step": 128,
+      "segment_id": "S01_00",
+      "parent_song": "SSvid.net--Taylor-Swift-Blank-Space",
+      "start_time": 3.2043537414965986,
+      "end_time": 5.735328798185941,
+      "key": "F"
+    },
+    {
+      "step": 129,
+      "segment_id": "S06_05",
+      "parent_song": "retro-lounge-389644",
+      "start_time": 10.054240362811791,
+      "end_time": 12.097596371882085,
+      "key": "F#"
+    },
+    {
+      "step": 130,
+      "segment_id": "S04_02",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 5.108390022675737,
+      "end_time": 7.523265306122449,
+      "key": "G"
+    },
+    {
+      "step": 131,
+      "segment_id": "S06_06",
+      "parent_song": "retro-lounge-389644",
+      "start_time": 12.097596371882085,
+      "end_time": 14.164172335600908,
+      "key": "F#"
+    },
+    {
+      "step": 132,
+      "segment_id": "S01_00",
+      "parent_song": "SSvid.net--Taylor-Swift-Blank-Space",
+      "start_time": 3.2043537414965986,
+      "end_time": 5.735328798185941,
+      "key": "F"
+    },
+    {
+      "step": 133,
+      "segment_id": "S06_05",
+      "parent_song": "retro-lounge-389644",
+      "start_time": 10.054240362811791,
+      "end_time": 12.097596371882085,
+      "key": "F#"
+    },
+    {
+      "step": 134,
+      "segment_id": "S05_01",
+      "parent_song": "hype-drill-music-438398",
+      "start_time": 11.215238095238096,
+      "end_time": 12.933514739229025,
+      "key": "E"
+    },
+    {
+      "step": 135,
+      "segment_id": "S04_01",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 2.716734693877551,
+      "end_time": 5.108390022675737,
+      "key": "G"
+    },
+    {
+      "step": 136,
+      "segment_id": "S01_00",
+      "parent_song": "SSvid.net--Taylor-Swift-Blank-Space",
+      "start_time": 3.2043537414965986,
+      "end_time": 5.735328798185941,
+      "key": "F"
+    },
+    {
+      "step": 137,
+      "segment_id": "S06_05",
+      "parent_song": "retro-lounge-389644",
+      "start_time": 10.054240362811791,
+      "end_time": 12.097596371882085,
+      "key": "F#"
+    },
+    {
+      "step": 138,
+      "segment_id": "S05_01",
+      "parent_song": "hype-drill-music-438398",
+      "start_time": 11.215238095238096,
+      "end_time": 12.933514739229025,
+      "key": "E"
+    },
+    {
+      "step": 139,
+      "segment_id": "S08_00",
+      "parent_song": "we-wish-you-a-merry-christmas-444573",
+      "start_time": 0.9287981859410431,
+      "end_time": 2.4380952380952383,
+      "key": "G"
+    },
+    {
+      "step": 140,
+      "segment_id": "S01_00",
+      "parent_song": "SSvid.net--Taylor-Swift-Blank-Space",
+      "start_time": 3.2043537414965986,
+      "end_time": 5.735328798185941,
+      "key": "F"
+    },
+    {
+      "step": 141,
+      "segment_id": "S06_05",
+      "parent_song": "retro-lounge-389644",
+      "start_time": 10.054240362811791,
+      "end_time": 12.097596371882085,
+      "key": "F#"
+    },
+    {
+      "step": 142,
+      "segment_id": "S04_03",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 7.523265306122449,
+      "end_time": 9.914920634920636,
+      "key": "G"
+    },
+    {
+      "step": 143,
+      "segment_id": "S05_01",
+      "parent_song": "hype-drill-music-438398",
+      "start_time": 11.215238095238096,
+      "end_time": 12.933514739229025,
+      "key": "E"
+    },
+    {
+      "step": 144,
+      "segment_id": "S01_00",
+      "parent_song": "SSvid.net--Taylor-Swift-Blank-Space",
+      "start_time": 3.2043537414965986,
+      "end_time": 5.735328798185941,
+      "key": "F"
+    },
+    {
+      "step": 145,
+      "segment_id": "S08_00",
+      "parent_song": "we-wish-you-a-merry-christmas-444573",
+      "start_time": 0.9287981859410431,
+      "end_time": 2.4380952380952383,
+      "key": "G"
+    },
+    {
+      "step": 146,
+      "segment_id": "S04_03",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 7.523265306122449,
+      "end_time": 9.914920634920636,
+      "key": "G"
+    },
+    {
+      "step": 147,
+      "segment_id": "S05_01",
+      "parent_song": "hype-drill-music-438398",
+      "start_time": 11.215238095238096,
+      "end_time": 12.933514739229025,
+      "key": "E"
+    },
+    {
+      "step": 148,
+      "segment_id": "S01_00",
+      "parent_song": "SSvid.net--Taylor-Swift-Blank-Space",
+      "start_time": 3.2043537414965986,
+      "end_time": 5.735328798185941,
+      "key": "F"
+    },
+    {
+      "step": 149,
+      "segment_id": "S08_00",
+      "parent_song": "we-wish-you-a-merry-christmas-444573",
+      "start_time": 0.9287981859410431,
+      "end_time": 2.4380952380952383,
+      "key": "G"
+    },
+    {
+      "step": 150,
+      "segment_id": "S04_03",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 7.523265306122449,
+      "end_time": 9.914920634920636,
+      "key": "G"
+    },
+    {
+      "step": 151,
+      "segment_id": "S05_01",
+      "parent_song": "hype-drill-music-438398",
+      "start_time": 11.215238095238096,
+      "end_time": 12.933514739229025,
+      "key": "E"
+    },
+    {
+      "step": 152,
+      "segment_id": "S01_00",
+      "parent_song": "SSvid.net--Taylor-Swift-Blank-Space",
+      "start_time": 3.2043537414965986,
+      "end_time": 5.735328798185941,
+      "key": "F"
+    },
+    {
+      "step": 153,
+      "segment_id": "S04_02",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 5.108390022675737,
+      "end_time": 7.523265306122449,
+      "key": "G"
+    },
+    {
+      "step": 154,
+      "segment_id": "S04_03",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 7.523265306122449,
+      "end_time": 9.914920634920636,
+      "key": "G"
+    },
+    {
+      "step": 155,
+      "segment_id": "S05_01",
+      "parent_song": "hype-drill-music-438398",
+      "start_time": 11.215238095238096,
+      "end_time": 12.933514739229025,
+      "key": "E"
+    },
+    {
+      "step": 156,
+      "segment_id": "S01_00",
+      "parent_song": "SSvid.net--Taylor-Swift-Blank-Space",
+      "start_time": 3.2043537414965986,
+      "end_time": 5.735328798185941,
+      "key": "F"
+    },
+    {
+      "step": 157,
+      "segment_id": "S04_02",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 5.108390022675737,
+      "end_time": 7.523265306122449,
+      "key": "G"
+    },
+    {
+      "step": 158,
+      "segment_id": "S04_03",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 7.523265306122449,
+      "end_time": 9.914920634920636,
+      "key": "G"
+    },
+    {
+      "step": 159,
+      "segment_id": "S05_00",
+      "parent_song": "hype-drill-music-438398",
+      "start_time": 9.496961451247165,
+      "end_time": 11.215238095238096,
+      "key": "E"
+    },
+    {
+      "step": 160,
+      "segment_id": "S01_00",
+      "parent_song": "SSvid.net--Taylor-Swift-Blank-Space",
+      "start_time": 3.2043537414965986,
+      "end_time": 5.735328798185941,
+      "key": "F"
+    },
+    {
+      "step": 161,
+      "segment_id": "S04_02",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 5.108390022675737,
+      "end_time": 7.523265306122449,
+      "key": "G"
+    },
+    {
+      "step": 162,
+      "segment_id": "S04_03",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 7.523265306122449,
+      "end_time": 9.914920634920636,
+      "key": "G"
+    },
+    {
+      "step": 163,
+      "segment_id": "S05_00",
+      "parent_song": "hype-drill-music-438398",
+      "start_time": 9.496961451247165,
+      "end_time": 11.215238095238096,
+      "key": "E"
+    },
+    {
+      "step": 164,
+      "segment_id": "S01_00",
+      "parent_song": "SSvid.net--Taylor-Swift-Blank-Space",
+      "start_time": 3.2043537414965986,
+      "end_time": 5.735328798185941,
+      "key": "F"
+    },
+    {
+      "step": 165,
+      "segment_id": "S04_02",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 5.108390022675737,
+      "end_time": 7.523265306122449,
+      "key": "G"
+    },
+    {
+      "step": 166,
+      "segment_id": "S04_03",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 7.523265306122449,
+      "end_time": 9.914920634920636,
+      "key": "G"
+    },
+    {
+      "step": 167,
+      "segment_id": "S04_01",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 2.716734693877551,
+      "end_time": 5.108390022675737,
+      "key": "G"
+    },
+    {
+      "step": 168,
+      "segment_id": "S01_00",
+      "parent_song": "SSvid.net--Taylor-Swift-Blank-Space",
+      "start_time": 3.2043537414965986,
+      "end_time": 5.735328798185941,
+      "key": "F"
+    },
+    {
+      "step": 169,
+      "segment_id": "S04_02",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 5.108390022675737,
+      "end_time": 7.523265306122449,
+      "key": "G"
+    },
+    {
+      "step": 170,
+      "segment_id": "S04_03",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 7.523265306122449,
+      "end_time": 9.914920634920636,
+      "key": "G"
+    },
+    {
+      "step": 171,
+      "segment_id": "S04_01",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 2.716734693877551,
+      "end_time": 5.108390022675737,
+      "key": "G"
+    },
+    {
+      "step": 172,
+      "segment_id": "S01_00",
+      "parent_song": "SSvid.net--Taylor-Swift-Blank-Space",
+      "start_time": 3.2043537414965986,
+      "end_time": 5.735328798185941,
+      "key": "F"
+    },
+    {
+      "step": 173,
+      "segment_id": "S04_02",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 5.108390022675737,
+      "end_time": 7.523265306122449,
+      "key": "G"
+    },
+    {
+      "step": 174,
+      "segment_id": "S04_03",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 7.523265306122449,
+      "end_time": 9.914920634920636,
+      "key": "G"
+    },
+    {
+      "step": 175,
+      "segment_id": "S04_01",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 2.716734693877551,
+      "end_time": 5.108390022675737,
+      "key": "G"
+    },
+    {
+      "step": 176,
+      "segment_id": "S01_00",
+      "parent_song": "SSvid.net--Taylor-Swift-Blank-Space",
+      "start_time": 3.2043537414965986,
+      "end_time": 5.735328798185941,
+      "key": "F"
+    },
+    {
+      "step": 177,
+      "segment_id": "S04_02",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 5.108390022675737,
+      "end_time": 7.523265306122449,
+      "key": "G"
+    },
+    {
+      "step": 178,
+      "segment_id": "S04_06",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 14.721451247165533,
+      "end_time": 17.11310657596372,
+      "key": "G"
+    },
+    {
+      "step": 179,
+      "segment_id": "S04_01",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 2.716734693877551,
+      "end_time": 5.108390022675737,
+      "key": "G"
+    },
+    {
+      "step": 180,
+      "segment_id": "S01_00",
+      "parent_song": "SSvid.net--Taylor-Swift-Blank-Space",
+      "start_time": 3.2043537414965986,
+      "end_time": 5.735328798185941,
+      "key": "F"
+    },
+    {
+      "step": 181,
+      "segment_id": "S06_02",
+      "parent_song": "retro-lounge-389644",
+      "start_time": 4.08671201814059,
+      "end_time": 6.060408163265306,
+      "key": "F#"
+    },
+    {
+      "step": 182,
+      "segment_id": "S04_06",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 14.721451247165533,
+      "end_time": 17.11310657596372,
+      "key": "G"
+    },
+    {
+      "step": 183,
+      "segment_id": "S04_01",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 2.716734693877551,
+      "end_time": 5.108390022675737,
+      "key": "G"
+    },
+    {
+      "step": 184,
+      "segment_id": "S01_00",
+      "parent_song": "SSvid.net--Taylor-Swift-Blank-Space",
+      "start_time": 3.2043537414965986,
+      "end_time": 5.735328798185941,
+      "key": "F"
+    },
+    {
+      "step": 185,
+      "segment_id": "S06_02",
+      "parent_song": "retro-lounge-389644",
+      "start_time": 4.08671201814059,
+      "end_time": 6.060408163265306,
+      "key": "F#"
+    },
+    {
+      "step": 186,
+      "segment_id": "S04_06",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 14.721451247165533,
+      "end_time": 17.11310657596372,
+      "key": "G"
+    },
+    {
+      "step": 187,
+      "segment_id": "S04_01",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 2.716734693877551,
+      "end_time": 5.108390022675737,
+      "key": "G"
+    },
+    {
+      "step": 188,
+      "segment_id": "S01_00",
+      "parent_song": "SSvid.net--Taylor-Swift-Blank-Space",
+      "start_time": 3.2043537414965986,
+      "end_time": 5.735328798185941,
+      "key": "F"
+    },
+    {
+      "step": 189,
+      "segment_id": "S06_02",
+      "parent_song": "retro-lounge-389644",
+      "start_time": 4.08671201814059,
+      "end_time": 6.060408163265306,
+      "key": "F#"
+    },
+    {
+      "step": 190,
+      "segment_id": "S04_06",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 14.721451247165533,
+      "end_time": 17.11310657596372,
+      "key": "G"
+    },
+    {
+      "step": 191,
+      "segment_id": "S06_07",
+      "parent_song": "retro-lounge-389644",
+      "start_time": 14.164172335600908,
+      "end_time": 16.300408163265306,
+      "key": "F#"
+    },
+    {
+      "step": 192,
+      "segment_id": "S01_00",
+      "parent_song": "SSvid.net--Taylor-Swift-Blank-Space",
+      "start_time": 3.2043537414965986,
+      "end_time": 5.735328798185941,
+      "key": "F"
+    },
+    {
+      "step": 193,
+      "segment_id": "S06_02",
+      "parent_song": "retro-lounge-389644",
+      "start_time": 4.08671201814059,
+      "end_time": 6.060408163265306,
+      "key": "F#"
+    },
+    {
+      "step": 194,
+      "segment_id": "S05_01",
+      "parent_song": "hype-drill-music-438398",
+      "start_time": 11.215238095238096,
+      "end_time": 12.933514739229025,
+      "key": "E"
+    },
+    {
+      "step": 195,
+      "segment_id": "S04_06",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 14.721451247165533,
+      "end_time": 17.11310657596372,
+      "key": "G"
+    },
+    {
+      "step": 196,
+      "segment_id": "S01_00",
+      "parent_song": "SSvid.net--Taylor-Swift-Blank-Space",
+      "start_time": 3.2043537414965986,
+      "end_time": 5.735328798185941,
+      "key": "F"
+    },
+    {
+      "step": 197,
+      "segment_id": "S06_02",
+      "parent_song": "retro-lounge-389644",
+      "start_time": 4.08671201814059,
+      "end_time": 6.060408163265306,
+      "key": "F#"
+    },
+    {
+      "step": 198,
+      "segment_id": "S05_01",
+      "parent_song": "hype-drill-music-438398",
+      "start_time": 11.215238095238096,
+      "end_time": 12.933514739229025,
+      "key": "E"
+    },
+    {
+      "step": 199,
+      "segment_id": "S04_06",
+      "parent_song": "happy-birthday-357371",
+      "start_time": 14.721451247165533,
+      "end_time": 17.11310657596372,
+      "key": "G"
+    }
+  ]
+}
