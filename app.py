@@ -101,22 +101,66 @@ def build_bio_operator(N):
 # CTQW + ENAQT
 # ============================================================
 
+def enaqt_dephasing_step(psi, gamma, dt):
+    """
+    ENAQT-style pure dephasing.
+    - Preserves |psi|^2
+    - Randomizes phase
+    """
+    phase_noise = np.exp(
+        1j * np.random.normal(0, np.sqrt(gamma * dt), size=len(psi))
+    )
+    return psi * phase_noise
+def ou_noise(prev, theta=0.15, sigma=0.3, dt=0.05):
+    """
+    Ornstein–Uhlenbeck noise (colored noise)
+    Models structured vibrational environment
+    """
+    return (
+        prev
+        + theta * (-prev) * dt
+        + sigma * np.sqrt(dt) * np.random.normal(size=len(prev))
+    )
+
+
 def run_quantum_walk(H, start_idx, T, dt, lambda_noise):
+    """
+    CTQW + ENAQT-style biological dephasing
+    """
+    N = H.shape[0]
+
     psi = np.zeros(N, dtype=complex)
     psi[start_idx] = 1.0
+
     probs = np.zeros((T, N))
 
-    deg = np.sum(np.abs(H), axis=1)
-    eta = deg / (deg.sum() + 1e-12)
+    # OU noise state (for correlated environment)
+    ou_state = np.zeros(N)
 
     for t in range(T):
+        # Record probabilities
         probs[t] = np.abs(psi)**2
+
+        # ---- Coherent quantum evolution ----
         psi = psi - 1j * (H @ psi) * dt
+
+        # ---- ENAQT dephasing (BIO CORE) ----
         if lambda_noise > 0:
-            psi = (1 - lambda_noise) * psi + lambda_noise * eta
+            psi = enaqt_dephasing_step(
+                psi,
+                gamma=lambda_noise,
+                dt=dt
+            )
+
+            # OPTIONAL: correlated vibrational noise
+            ou_state[:] = ou_noise(ou_state, dt=dt)
+            psi *= np.exp(1j * ou_state * dt)
+
+        # ---- Renormalize ----
         psi /= np.linalg.norm(psi)
 
     return probs
+
 
 # ============================================================
 # PATH EXTRACTION (FULL DIAGNOSTICS)
@@ -134,7 +178,12 @@ def extract_path(prob, A, prob_no_bio, L, stochastic):
             p = p / (p.sum() + 1e-12)
             idx = int(np.random.choice(N, p=p))
         else:
-            idx = int(np.argmax(p))
+            temperature = 0.15 + 0.85 * lambda_noise
+            logits = np.log(p + 1e-12) / temperature
+            weights = np.exp(logits)
+            weights /= weights.sum()
+            idx = int(np.random.choice(N, p=weights))
+
 
         top5 = np.argsort(p)[-5:][::-1]
 
